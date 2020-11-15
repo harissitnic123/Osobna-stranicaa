@@ -1,0 +1,67 @@
+
+body{
+    font-family: monospace;
+    background-color: rgb(158, 213, 245);
+    color: white;
+}
+.slika{
+    border-radius: 50%;
+    height: 150px;
+    width: auto;
+    margin-right: 50px;
+}
+.div1{
+    padding-top: 1px;
+    color: black;
+    border-bottom-style: solid;
+    border-width: 2px;
+    border-color: white;
+    height: 180px;
+    font-size: 12pt;
+}
+.tocka{
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    background-color: rgb(112, 116, 117);
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.div2{
+    padding-top: 10px;
+    border-color: white;
+    color:black;
+    padding-left: 20px;
+    border-bottom-style: solid;
+    border-width: 2px;
+    background-color: rgb(158, 213, 245);
+}
+table{
+    padding-left: 0;
+    font-size: 12pt;
+    border-spacing: 40px;
+}
+th{
+    text-align: center;
+    font-weight: bold;
+}
+.div3{
+    padding-top: 10px;
+    border-color: white;
+    color: black;
+    padding-left: 20px;
+    border-bottom-style: solid;
+    border-width: 2px;
+    background-color: rgb(158, 213, 245);
+    font-size: 12pt;
+    height: 200px;
+}
+.div4{
+    font-size: 12pt;
+    padding: 10px;
+}
+.Kontakti{
+    color: black;
+    width: 350px;
+}
